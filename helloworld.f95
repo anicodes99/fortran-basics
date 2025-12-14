@@ -1,3 +1,5 @@
-program Hello
-print *, "Hello World"
-end Program Hello
+program hello
+  implicit none
+  print *, "Hello, Fortran 95!"
+end program 
+
